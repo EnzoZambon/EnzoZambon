@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Enzo  
 
 
-![Portada]((https://EnzoZambon/Portada.png))
+![Portada](Portada.png)
 
 ---
 
