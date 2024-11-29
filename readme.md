@@ -1,8 +1,7 @@
 <div align="center">
   <h1 style="font-size: 50px;">👋 ¡Hola! Soy Enzo 😃</h1>
+  <img src="Portada.png" alt="Portada" style="max-width: 100%; height: auto;">
 </div>
-
-![Portada](Portada.png)
 
 ---
 
