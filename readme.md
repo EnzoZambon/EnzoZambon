@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Enzo  
 
 
-![Portada](A_professional_and_modern_GitHub_README_cover_with.png)
+![Portada]((https://EnzoZambon/Portada.png))
 
 ---
 
