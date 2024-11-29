@@ -8,26 +8,26 @@
 ## 📝 Sobre mí  
 Soy economista con una sólida experiencia en:  
 - Proyectos de investigación.  
-- Análisis presupuestario y financiero.  
+- Análisis presupuestarios y financieros.  
 - Diseño de dashboards interactivos y soluciones analíticas que transforman datos en decisiones estratégicas.  
 
 ---
 
 ## 💼 Competencias  
-- **Tecnologías**: Python, SQL, Power BI, herramientas estadísticas.  
-- **Habilidades**: Visualización de datos, econometría, análisis financiero, diseño de dashboards.  
+- **Tecnologías**: Python, SQL, Power BI, SPSS.  
+- **Habilidades**: Procesos de ETL, analisis, visualización e interpretación de la información, conocimientos en econometría y finanzas.
 - **Enfoque**: Resolución de problemas complejos, colaboración en equipos dinámicos y orientación a resultados.  
 
 ---
 
 ## 🚀 Actualmente  
 - Perfeccionando habilidades como **Data Analyst**.  
-- Interesado en roles que combinen análisis de datos, econometría y soluciones estratégicas.  
+- Interesado en roles que combinen procesamiento y análisis de datos, visualización y elaboración de soluciones estratégicas.  
 - Motivado por el aprendizaje continuo y el aporte de valor en entornos colaborativos.  
 
 ---
 
-## 📈 Objetivos  
+## 🎯 Objetivos  
 Busco oportunidades donde pueda:  
 1. **Contribuir** al logro de objetivos organizacionales.  
 2. **Consolidar** competencias técnicas.  
