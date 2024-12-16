@@ -39,7 +39,7 @@ Busco oportunidades donde pueda:
 ### [Análisis de balances de empresas como Blizzard y Electronic Arts](#)  
 Evaluación financiera y estratégica de las principales empresas de la industria de videojuegos, enfocada en el rendimiento corporativo.  
 
-### [Biogenesys: Expansión Estratégica](#)  
+### [Biogenesys: Expansión Estratégica](https://github.com/EnzoZambon/DAM4-PI4-Biogenesys)(#)  
 Dashboard interactivo que prioriza áreas de inversión basadas en datos epidemiológicos y sanitarios.
 
 ### [Análisis presupuestario de la ciudad de San Salvador, Entre Ríos](#)  
