@@ -39,7 +39,7 @@ Busco oportunidades donde pueda:
 ### [Análisis de Rendimiento de San Antonio Spurs (NBA): Temporada 2022-2023](https://github.com/EnzoZambon/Proyecto-Final-Henry)
 Estudio detallado sobre el desempeño y las estadísticas clave de los Spurs durante la temporada 2022-2023, con un enfoque en el rendimiento colectivo e individual de jugadores.
 
-### [Análisis de balances de empresas como Blizzard y Electronic Arts](#)  
+### [Análisis de balances de empresas: Activision Blizzard y Electronic Arts](#)  
 Evaluación financiera y estratégica de las principales empresas de la industria de videojuegos, enfocada en el rendimiento corporativo.  
 
 ### [Biogenesys: Expansión Estratégica](https://github.com/EnzoZambon/DAM4-PI4-Biogenesys)  
